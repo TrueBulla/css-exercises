@@ -1,0 +1,17 @@
+.class_1 {
+    background-color: rgb(255, 173, 163);
+}
+.class_1.different {
+    font-size: 40px;
+}
+#id_1 {
+    color: blue;
+    font-size: 55px;
+
+}
+#id_2 {
+    background-color: lightgreen;
+    color: black;
+    font-weight: bold;
+    font-size: 35px;
+}
